@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{531E8F0F-FECB-4FF8-8E9D-42C26A02201A}</ProjectGuid>
+    <ProjectGuid>{93F5CE25-E3DF-4DF8-A9F7-8C2DFF18B39F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>bai1._11</RootNamespace>
-    <AssemblyName>bai1.11</AssemblyName>
+    <RootNamespace>bai1._12</RootNamespace>
+    <AssemblyName>bai1.12</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

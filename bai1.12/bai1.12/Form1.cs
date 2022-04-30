@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace bai1._11
+namespace bai1._12
 {
     public partial class Form1 : Form
     {
@@ -19,22 +19,21 @@ namespace bai1._11
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double toan = Convert.ToDouble(textBox1.Text);
-            double ly = Convert.ToDouble(textBox2.Text);
-            double hoa = Convert.ToDouble(textBox3.Text);
+            double a = Convert.ToDouble(textBox1.Text);
+            double b = Convert.ToDouble(textBox2.Text);
+            double c = Convert.ToDouble(textBox3.Text);
 
-            double sum = toan + ly + hoa;
+            label7.Text = (0.1 * a + 0.3 * b + c * 0.6).ToString();
 
-            label5.Text = sum.ToString();
-            if (sum >= 15 && toan >= 5 && ly >= 5 && hoa >= 5)
+            if ((0.1 *a + 0.3*b + c*0.6) > 5 && b >= 3)
             {
-                label6.Text = "Đạt";
+                label6.Text = "Good";
             }
             else
             {
-                label6.Text = "Rớt";
-
+                label6.Text = "Bad";
             }
+
         }
     }
 }
