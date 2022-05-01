@@ -1,0 +1,11 @@
+F:\vault of code\vault of c#\bai2.5\bai2.5\bin\Debug\bai2.5.exe.config
+F:\vault of code\vault of c#\bai2.5\bai2.5\bin\Debug\bai2.5.exe
+F:\vault of code\vault of c#\bai2.5\bai2.5\bin\Debug\bai2.5.pdb
+F:\vault of code\vault of c#\bai2.5\bai2.5\obj\Debug\bai2.5.csproj.AssemblyReference.cache
+F:\vault of code\vault of c#\bai2.5\bai2.5\obj\Debug\bai2.5.csproj.SuggestedBindingRedirects.cache
+F:\vault of code\vault of c#\bai2.5\bai2.5\obj\Debug\bai2._5.Form1.resources
+F:\vault of code\vault of c#\bai2.5\bai2.5\obj\Debug\bai2._5.Properties.Resources.resources
+F:\vault of code\vault of c#\bai2.5\bai2.5\obj\Debug\bai2.5.csproj.GenerateResource.cache
+F:\vault of code\vault of c#\bai2.5\bai2.5\obj\Debug\bai2.5.csproj.CoreCompileInputs.cache
+F:\vault of code\vault of c#\bai2.5\bai2.5\obj\Debug\bai2.5.exe
+F:\vault of code\vault of c#\bai2.5\bai2.5\obj\Debug\bai2.5.pdb
