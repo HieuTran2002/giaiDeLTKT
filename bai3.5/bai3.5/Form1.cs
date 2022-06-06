@@ -38,7 +38,6 @@ namespace bai3._5
                     col = 0;
 
                 }
-                //MessageBox.Show(col.ToString() + "\n" + row.ToString() + "\n" + count.ToString());
             }
 
             for (int i = 0; i < 6; i++)
@@ -79,5 +78,31 @@ namespace bai3._5
 
             label2.Text = getArray();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int result1 = 0;
+            int result2 = 0;
+            int result3 = 0;
+
+            for (int i = 0; i < 6; i++)
+            {
+                result1 += myArray[i, i] + myArray[i, 5 - i];
+                for (int j = 0; j < 6; j++)
+                { 
+                    if ((i == 0 || i == 5) || (j == 0 || j == 5))
+                    {
+                        result2 += myArray[i, j];
+                        
+                    }
+                    result3 += myArray[i, j];
+                }
+            }
+
+            label3.Text = result1.ToString();
+            label6.Text = result2.ToString();
+            label8.Text = result3.ToString();
+        }
+
     }
 }

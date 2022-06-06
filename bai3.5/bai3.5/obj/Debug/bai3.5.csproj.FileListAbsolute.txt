@@ -9,3 +9,14 @@ F:\vault of code\vault of c#\bai3.5\bai3.5\obj\Debug\bai3.5.csproj.GenerateResou
 F:\vault of code\vault of c#\bai3.5\bai3.5\obj\Debug\bai3.5.csproj.CoreCompileInputs.cache
 F:\vault of code\vault of c#\bai3.5\bai3.5\obj\Debug\bai3.5.exe
 F:\vault of code\vault of c#\bai3.5\bai3.5\obj\Debug\bai3.5.pdb
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\bin\Debug\bai3.5.exe.config
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\bin\Debug\bai3.5.exe
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\bin\Debug\bai3.5.pdb
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\obj\Debug\bai3.5.csproj.AssemblyReference.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\obj\Debug\bai3.5.csproj.SuggestedBindingRedirects.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\obj\Debug\bai3._5.Form1.resources
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\obj\Debug\bai3._5.Properties.Resources.resources
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\obj\Debug\bai3.5.csproj.GenerateResource.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\obj\Debug\bai3.5.csproj.CoreCompileInputs.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\obj\Debug\bai3.5.exe
+F:\vault of code\vault of c#\giaiDeLTKT\bai3.5\bai3.5\obj\Debug\bai3.5.pdb
