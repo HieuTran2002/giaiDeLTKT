@@ -178,15 +178,17 @@
             // 
             this.comboBox5.FormattingEnabled = true;
             this.comboBox5.Items.AddRange(new object[] {
-            "none",
-            "brown ",
-            "red   ",
-            "gray   ",
-            "blue   ",
-            "green  ",
-            "gold   ",
-            "silver ",
-            "black "});
+            "Black",
+            "Brown ",
+            "Red \t",
+            "Orange \t",
+            "Yellow \t",
+            "Green \t",
+            "Blue \t",
+            "Violet \t",
+            "Grey \t",
+            "Gold \t",
+            "Silver"});
             this.comboBox5.Location = new System.Drawing.Point(439, 161);
             this.comboBox5.Name = "comboBox5";
             this.comboBox5.Size = new System.Drawing.Size(101, 24);
