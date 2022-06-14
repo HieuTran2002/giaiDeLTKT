@@ -1,0 +1,11 @@
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\bin\Debug\giaiDeLTKT.exe.config
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\bin\Debug\giaiDeLTKT.exe
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\bin\Debug\giaiDeLTKT.pdb
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\obj\Debug\giaiDeLTKT.csproj.AssemblyReference.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\obj\Debug\giaiDeLTKT.csproj.SuggestedBindingRedirects.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\obj\Debug\giaiDeLTKT.Form1.resources
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\obj\Debug\giaiDeLTKT.Properties.Resources.resources
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\obj\Debug\giaiDeLTKT.csproj.GenerateResource.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\obj\Debug\giaiDeLTKT.csproj.CoreCompileInputs.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\obj\Debug\giaiDeLTKT.exe
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.1(2)\giaiDeLTKT\obj\Debug\giaiDeLTKT.pdb
