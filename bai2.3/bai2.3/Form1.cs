@@ -26,24 +26,26 @@ namespace bai2._3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int n, a, b, c, not_a, AND, x, y;
+            bool a, b, c, not_a, And, x, y;
             label1.Text = "a    |   b   |   c   |   X   |   Y   \n";
+
             for (int i = 0; i < 8; i++)
             {
-                n = i;
-                c = n % 2;
-                n = n / 2;
-                b = n % 2;
-                n = n / 2;
-                a = n % 2;
+                bool[] bits = Enumerable.Range(0, 3)
+                                        .Select(bitIndex => 1 << bitIndex)
+                                        .Select(bitMask => (i & bitMask) == bitMask)
+                                        .ToArray();
+                a = bits[2];
+                b = bits[1];
+                c = bits[0];
 
-                not_a = ~a;
-                AND = not_a & b & c;
+                not_a = !a;
+                And = not_a & b & c;
                 y = b ^ c;
-                x = Math.Abs(~( not_a & AND & y));
-                label1.Text += a + "    |   " + b + "   |   " + c + "  |    " + x + "   |   " + y + "   \n";
-            }
+                x = !(y & And & not_a);
 
+                label1.Text += Convert.ToInt16(a) + "    |   " + Convert.ToInt16(b) + "   |   " + Convert.ToInt16(c) + "  |    " + Convert.ToInt16(x) + "   |   " + Convert.ToInt16(y) + "   \n";
+            }
         }
     }
 }

@@ -20,3 +20,14 @@ F:\vault of code\vault of c#\giaiDeLTKT\bai.2.2\bai.2.2\obj\Debug\bai.2.2.csproj
 F:\vault of code\vault of c#\giaiDeLTKT\bai.2.2\bai.2.2\obj\Debug\bai.2.2.csproj.CoreCompileInputs.cache
 F:\vault of code\vault of c#\giaiDeLTKT\bai.2.2\bai.2.2\obj\Debug\bai.2.2.exe
 F:\vault of code\vault of c#\giaiDeLTKT\bai.2.2\bai.2.2\obj\Debug\bai.2.2.pdb
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\bin\Debug\bai.2.2.exe.config
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\bin\Debug\bai.2.2.exe
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\bin\Debug\bai.2.2.pdb
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\obj\Debug\bai.2.2.csproj.AssemblyReference.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\obj\Debug\bai.2.2.csproj.SuggestedBindingRedirects.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\obj\Debug\bai._2._2.Form1.resources
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\obj\Debug\bai._2._2.Properties.Resources.resources
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\obj\Debug\bai.2.2.csproj.GenerateResource.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\obj\Debug\bai.2.2.csproj.CoreCompileInputs.cache
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\obj\Debug\bai.2.2.exe
+F:\vault of code\vault of c#\giaiDeLTKT\bai2.2\bai.2.2\obj\Debug\bai.2.2.pdb
