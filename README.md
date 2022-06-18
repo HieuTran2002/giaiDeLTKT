@@ -1,6 +1,10 @@
 ﻿
+New update 11pm 18/6/22
+> Sửa bài 3.13
+> Thêm bài 3.15
+
 New update 4pm 18/6/22  
->> fix bài 3.6
+> fix bài 3.6
 
 
 
