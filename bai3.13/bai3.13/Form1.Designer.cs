@@ -142,7 +142,9 @@
             "blue",
             "violet",
             "gray",
-            "white "});
+            "white ",
+            "gold",
+            "silver"});
             this.comboBox3.Location = new System.Drawing.Point(229, 161);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(96, 24);
