@@ -1,0 +1,11 @@
+F:\vault of code\vault of c#\LTKT30\LTKT30\bin\Debug\LTKT30.exe.config
+F:\vault of code\vault of c#\LTKT30\LTKT30\bin\Debug\LTKT30.exe
+F:\vault of code\vault of c#\LTKT30\LTKT30\bin\Debug\LTKT30.pdb
+F:\vault of code\vault of c#\LTKT30\LTKT30\obj\Debug\LTKT30.csproj.AssemblyReference.cache
+F:\vault of code\vault of c#\LTKT30\LTKT30\obj\Debug\LTKT30.csproj.SuggestedBindingRedirects.cache
+F:\vault of code\vault of c#\LTKT30\LTKT30\obj\Debug\LTKT30.Form1.resources
+F:\vault of code\vault of c#\LTKT30\LTKT30\obj\Debug\LTKT30.Properties.Resources.resources
+F:\vault of code\vault of c#\LTKT30\LTKT30\obj\Debug\LTKT30.csproj.GenerateResource.cache
+F:\vault of code\vault of c#\LTKT30\LTKT30\obj\Debug\LTKT30.csproj.CoreCompileInputs.cache
+F:\vault of code\vault of c#\LTKT30\LTKT30\obj\Debug\LTKT30.exe
+F:\vault of code\vault of c#\LTKT30\LTKT30\obj\Debug\LTKT30.pdb
