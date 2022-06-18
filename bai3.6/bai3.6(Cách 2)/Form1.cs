@@ -83,5 +83,19 @@ namespace bai3._6_Cách_2_
             label6.Text = (result - myArray[1,1]).ToString();
             label8.Text = result.ToString();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            myArray = new int[6, 6];
+            col = 0;
+            row = 0;
+            count = 0;
+
+            label3.Text = "";
+            label6.Text = "";
+            label8.Text = "";
+
+            label2.Text = getArray();
+        }
     }
 }

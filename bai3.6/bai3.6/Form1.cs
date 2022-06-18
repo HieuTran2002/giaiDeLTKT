@@ -101,6 +101,10 @@ namespace bai3._6
             row = 0;
             count = 0;
 
+            label3.Text = "";
+            label6.Text = "";
+            label8.Text = "";
+
             label2.Text = getArray();
         }
     }
